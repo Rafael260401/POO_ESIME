@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712969639 source:c:\users\udi\documents\combos\figuras\figura.cpp
+	"figura.h"
+
+1713485423 c:\users\udi\documents\combos\figuras\figura.h
+
+1712881222 source:c:\users\udi\documents\combos\figuras\main.cpp
+	<iostream>
+
+1713485545 source:c:\users\udi\documents\combos\figuras\triangulo.cpp
+	"triangulo.h"
+
+1713485545 c:\users\udi\documents\combos\figuras\triangulo.h
+	"figura.h"
+
