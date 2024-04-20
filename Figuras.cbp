@@ -35,6 +35,8 @@
 		</Compiler>
 		<Unit filename="figura.cpp" />
 		<Unit filename="figura.h" />
+		<Unit filename="isoceles.cpp" />
+		<Unit filename="isoceles.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="programa.cpp" />
 		<Unit filename="programa.h" />

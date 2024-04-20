@@ -1,5 +1,6 @@
 #ifndef PROGRAMA_H
 #define PROGRAMA_H
+#include "figura.h"
 
 
 class Programa
