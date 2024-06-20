@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1718824088 source:c:\users\rafac\documents\juego\juego\main.cpp
+	"Juego.h"
+
+1718636553 c:\users\rafac\documents\juego\juego\include\tablero.h
+	"GUI.h"
+
+1718827903 c:\users\rafac\documents\juego\juego\include\gui.h
+	<cstddef>
+	<iostream>
+	<cstdlib>
+
+1718635601 c:\users\rafac\documents\juego\juego\include\ficha.h
+
+1718635600 source:c:\users\rafac\documents\juego\juego\src\ficha.cpp
+	"Ficha.h"
+
+1718636553 source:c:\users\rafac\documents\juego\juego\src\tablero.cpp
+	"Tablero.h"
+
+1718774906 source:c:\users\rafac\documents\juego\juego\src\gui.cpp
+	"GUI.h"
+
+1718828728 c:\users\rafac\documents\juego\juego\include\juego.h
+	"GUI.h"
+	"Casilla.h"
+	<limits>
+
+1718824088 c:\users\rafac\documents\juego\juego\include\casilla.h
+
+1718824088 source:c:\users\rafac\documents\juego\juego\src\casilla.cpp
+	"Casilla.h"
+
+1718828752 source:c:\users\rafac\documents\juego\juego\src\juego.cpp
+	"Juego.h"
+
